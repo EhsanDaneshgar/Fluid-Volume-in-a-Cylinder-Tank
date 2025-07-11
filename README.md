@@ -81,7 +81,6 @@ Created by **Ehsan Daneshgar**
 
 ## ⚠️ Notes
 
-- Ensure units are consistent (e.g., all in meters or feet)  
 - Results are based on idealized cylindrical geometry  
 - For educational, industrial, and non-commercial use  
 
