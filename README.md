@@ -47,7 +47,6 @@ The calculation uses the geometric formula for the volume of a horizontal cylind
 
 ---
 ### 📸 Screenshot
-
 ![Fluid Volume Calculator](images/tank-preview.png)
 
 ---
