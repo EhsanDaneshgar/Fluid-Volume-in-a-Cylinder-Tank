@@ -49,9 +49,7 @@ The calculation uses the geometric formula for the volume of a horizontal cylind
 
 ### 📸 Screenshot
 
-### 📸 Screenshot
-
-![Fluid Volume Calculator](./images/Screenshot%202025-07-11%20140605.png)
+![Fluid Volume Calculator](images/Screenshot%202025-07-11%20140605.png)
 
 ---
 
